@@ -1,6 +1,6 @@
-//var albumBucketName = "버킷명";
-//var bucketRegion = "리전";
-//var IdentityPoolId = "코그니토ID값";
+var albumBucketName = "버킷명";
+var bucketRegion = "리전";
+var IdentityPoolId = "코그니토ID값";
 
 AWS.config.update({
   region: bucketRegion,
